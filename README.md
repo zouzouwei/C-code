@@ -1,2 +1,2 @@
 # booking-computer-system
-机房预约系统
+第一学期代码管理
