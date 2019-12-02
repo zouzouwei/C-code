@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "结构体", "结构体\结构体.vcxproj", "{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Debug|x64.ActiveCfg = Debug|x64
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Debug|x64.Build.0 = Debug|x64
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Debug|x86.Build.0 = Debug|Win32
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Release|x64.ActiveCfg = Release|x64
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Release|x64.Build.0 = Release|x64
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Release|x86.ActiveCfg = Release|Win32
+		{9A0478A2-DC98-4FD8-80E8-3D965B4D476F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C9FE9B-F1E0-44D9-B0B7-13A00B368D66}
+	EndGlobalSection
+EndGlobal
